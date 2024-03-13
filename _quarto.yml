@@ -5,11 +5,13 @@ project:
 website:
   title: "Harrison Huang"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: About Me
       - text: Resume
         file: Harrison_resume2024.pdf
+      - text: CV
+        file: Data analyst CV.pdf
     page-footer:
       right:
         - icon: github
@@ -18,7 +20,7 @@ website:
      
 format:
   html:
-    theme: light-blue
+    theme: minty
     css: styles.css
     toc: true
 
