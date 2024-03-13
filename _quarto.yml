@@ -18,7 +18,7 @@ website:
      
 format:
   html:
-    theme: blue
+    theme: light-blue
     css: styles.css
     toc: true
 
