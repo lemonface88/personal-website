@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Harrison Huang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About Me
+      - text: Resume
+        file: Harrison_resume2024.pdf
+    page-footer:
+      right:
+        - icon: github
+      border: true
+      background: "light"
+     
+format:
+  html:
+    theme: blue
+    css: styles.css
+    toc: true
+
+editor: visual
