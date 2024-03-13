@@ -11,3 +11,7 @@ comments: false
 
 Currently a third year bachelor of information student at the University of Toronto. My main focus is backend related work, data analysis and development work. Other than school, I've dipped my foot in many different waters exploring many different areas of interest. In my free time, I enjoy going outside biking, running and also bouldering. It helps me clear my mind when I feel overwelmed, being outdoor also expand my visions of the world and see it from different perspectives.
 
+```{r}
+library("usethis")
+```
+
